@@ -6,7 +6,7 @@ within ArangoDB. It is inspired by Sinatra, the classy Ruby web
 framework.
 
 "hello-foxx" is the hello world example for Foxx. Its
-[description file](https://github.com/triAGENS/foxx-apps/blob/master/applications/hello-foxx.json)
+[description file](https://github.com/arangodb/foxx-apps/blob/master/applications/hello-foxx.json)
 can be found in the applications folder.
 
     {
